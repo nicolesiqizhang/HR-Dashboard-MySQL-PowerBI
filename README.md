@@ -1,6 +1,6 @@
 # HR-Dashboard-MySQL-PowerBI
-<img width="1047" alt="Screenshot 2023-09-13 at 17 08 42" src="https://github.com/nicolesiqizhang/HR-Dashboard-MySQL-PowerBI/assets/101793681/a1e12be2-6392-4d95-bdb2-ccbf7a538a09">
 <img width="1049" alt="Screenshot 2023-09-13 at 17 08 28" src="https://github.com/nicolesiqizhang/HR-Dashboard-MySQL-PowerBI/assets/101793681/d37f0af9-2817-4ccc-92f7-d299bb864670">
+<img width="1047" alt="Screenshot 2023-09-13 at 17 08 42" src="https://github.com/nicolesiqizhang/HR-Dashboard-MySQL-PowerBI/assets/101793681/a1e12be2-6392-4d95-bdb2-ccbf7a538a09">
 
 The dataset was cleaned and queried using MySQL and visualized using PowerBI
 
